@@ -32,9 +32,20 @@ footer {
     font-size: 11px;
     color: white;
     background-color: dimgray;
-    text-align: center;
+    text-align: left;
 }
 
 .top-container {
     background-image: url("../images/the-flatiron-building.png");
+}
+
+#new-york {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-image: url("../images/the-flatiron-building.png");
+}
+#copyright {
+    font-size: 11px;
+    color: white;
 }
